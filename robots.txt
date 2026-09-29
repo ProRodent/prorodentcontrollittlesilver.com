@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prorodentcontrollittlesilver.com/sitemap.xml
